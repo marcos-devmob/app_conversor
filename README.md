@@ -42,15 +42,6 @@ lib/
 > O projeto é simples e direto, mantendo a arquitetura limpa e fácil de entender.
 
 ---
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/conversor-flutter.git
-
-   ---
-
    
 ## Como Executar
 
@@ -88,12 +79,15 @@ flutter run
 
 <img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/d0658413-b2eb-4a68-8131-75a373a9ccb5" />
 
+---
+
 Tela principal:
 <img width="720" height="1280" alt="Screenshot_20251002_171747" src="https://github.com/user-attachments/assets/80f6b328-0997-43a0-b33e-a03744861f1a" />
 
 <img width="720" height="1280" alt="Screenshot_20251002_171823" src="https://github.com/user-attachments/assets/1f0f9c55-e0ef-4883-901a-582abce7e448" />
 
 <img width="720" height="1280" alt="Screenshot_20251002_171900" src="https://github.com/user-attachments/assets/b87f55aa-5ef8-4110-8213-96d700ee30d8" />
+
 
 ---
 
