@@ -35,9 +35,10 @@ O app possui **tema escuro**, campos de texto estilizados, teclado numérico e *
 ---
 
 ## Estrutura do Projeto
-
+```vbnet
 lib/
 ├── main.dart
+```
 
 > O projeto é simples e direto, mantendo a arquitetura limpa e fácil de entender.
 
